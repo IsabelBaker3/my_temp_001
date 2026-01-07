@@ -1,0 +1,1 @@
+python labelme2yolo.py --json_dir G:/Data_Backup/CHAIR/data/project/Router/20271227/screw_check/2000x1500/aug/img_rename --val_size 0.15
